@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning  ***Spring Boot!!***
 - 📫 How to reach me: ***https://solstice99.notion.site/Personal-Archive-8c788d3ac2ff4797a957570ae71de199***
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=926bdf&height=300&section=header&text=MinJuBoss%20&fontSize=90&fontColor=fbfbfb)
+![header](https://capsule-render.vercel.app/api?type=wave&color=926bdf&height=300&section=header&text=UniM0cha%20&fontSize=80&fontColor=fbfbfb)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UniM0cha)](https://github.com/UniM0cha/github-readme-stats)
 
