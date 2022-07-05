@@ -11,7 +11,7 @@
 
 ## 저는요!
 - 🌱 현재 ***Spring Boot*** 를 공부하고 있어요!  
-- 백엔드 개발자를 꿈꾸고 있지만 프론트도 병행하고 있답니다.
+- 💭 백엔드 개발자를 꿈꾸고 있지만 프론트도 병행하고 있답니다.
 
 
 <a href = "https://solstice99.notion.site/Index-html-8c788d3ac2ff4797a957570ae71de199"><img alt="Notion" src ="https://img.shields.io/badge/Notion-white.svg?&style=flat-square&logo=Notion&logoColor=black"/></a>
