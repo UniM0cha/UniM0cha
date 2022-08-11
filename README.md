@@ -20,7 +20,7 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&&customColorList=18&height=250&section=footer&text=안녕히가세요!&fontColor=fbfbfb&animation=fadeIn&fontSize=40)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&&customColorList=18&height=250&section=footer&text=감사합니다!&fontColor=fbfbfb&animation=fadeIn&fontSize=40)
 
 
 
