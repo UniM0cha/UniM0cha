@@ -3,9 +3,9 @@
 ---
 
 ## 레포지토리 이름 규칙
-#### Inhatc - 인하공전 실습파일
-#### Tutorial - 개인공부, 독학
-#### Project - 프로젝트
+#### Inhatc - 인하공전 실습파일 - Private (못봐요!)
+#### Tutorial - 개인공부, 독학 - Private (안보여요!)
+#### Project - 프로젝트 - Public
 
 ---
 
