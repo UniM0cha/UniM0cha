@@ -12,7 +12,7 @@
 - ✍️ 블로그 활동도 하고 있으니 놀러오세요! ->
 <a href ="https://solstice24.notion.site/solst_ice-6dd0f0652ae143a5a0ebe79cfe320c16"><img alt="Notion" src ="https://img.shields.io/badge/Notion-white.svg?&style=flat-square&logo=Notion&logoColor=black"/></a>
 
-## 💪 시켜만주세요!
+# 💪 시켜만주세요!
 
 #### JavaScript 계열
 <div>
