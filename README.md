@@ -10,7 +10,7 @@
 - 🌱 현재 ***Spring Boot***와 ***React.js***를 공부하고 있어요!  
 - 💭 백엔드 개발자를 꿈꾸고 있지만 프론트도 병행하고 있습니다.
 - ✍️ 블로그 활동도 하고 있으니 놀러오세요! ->
-<a href = "https://solstice99.notion.site/Index-html-8c788d3ac2ff4797a957570ae71de199"><img alt="Notion" src ="https://img.shields.io/badge/Notion-white.svg?&style=flat-square&logo=Notion&logoColor=black"/></a>
+<a href ="https://solstice24.notion.site/solst_ice-6dd0f0652ae143a5a0ebe79cfe320c16"><img alt="Notion" src ="https://img.shields.io/badge/Notion-white.svg?&style=flat-square&logo=Notion&logoColor=black"/></a>
 
 ## 💪 시켜만주세요!
 
