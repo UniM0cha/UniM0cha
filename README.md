@@ -5,7 +5,7 @@
 - 🌱 현재 메인 프로젝트에서 ***Spring Boot***와 ***Next JS***를 사용하고 있어요!  
 - 💭 백엔드 개발자를 꿈꾸고 있지만 프론트도 병행하고 있습니다.
 - ✍️ 블로그 활동도 하고 있으니 놀러오세요! ->
-<a href ="https://solstice.oopy.io/">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
+<a href ="https://solstice24.notion.site/solst_ice-6dd0f0652ae143a5a0ebe79cfe320c16?pvs=4">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
 
 # 💪 시켜만주세요!
 
