@@ -2,8 +2,6 @@
 
 I love working with Spring boot and Next.js.
 
-<br/>
-
 ## Projects
 **샘튼 매니저** <sub>Car wash owner's reservation management application</sub>
 
