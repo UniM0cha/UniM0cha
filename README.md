@@ -3,15 +3,20 @@
 I love working with Spring boot and Next.js.
 
 ## Projects
-**샘튼 매니저** <sub>Car wash owner's reservation management application</sub>
+**샘튼 매니저** <sub>Car wash owner's reservation management application</sub>  
+<sub>- Spring boot, Next.js</sub>
 
-**세차새차** <sub>Car wash booking platform</sub>
+**세차새차** <sub>Car wash booking platform</sub>  
+<sub>- Spring boot, Next.js</sub>
 
-**CCMS** <sub>Analytics tool and VCS integration application</sub>
+**CCMS** <sub>Analytics tool and VCS integration application</sub>  
+<sub>- Spring boot, Next.js</sub>
 
-**Codemind** <sub>Static Vulnerability Analysis Tool</sub>
+**Codemind** <sub>Static Vulnerability Analysis Tool</sub>  
+<sub>- Spring boot, jQuery</sub>
 
-**애터미 8코어 - 8가지 성공습관** <sub>Diary app to record and share 8 habits daily</sub>
+**애터미 8코어 - 8가지 성공습관** <sub>Diary app to record and share 8 habits daily</sub>  
+<sub>- React Native</sub>
 
 <br/>
 
